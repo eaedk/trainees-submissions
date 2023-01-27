@@ -1,4 +1,8 @@
-## Articles
+# Trainees subimtted materials
+This repository lists some of materials that have be submitted but the Azubi Africa trainees, during the Career Accelerator program
+
+## Post-BAP cohort 
+### Articles
 - [1](https://www.linkedin.com/feed/update/urn:li:activity:7023856827360514048/)
 - [2](https://medium.com/@kwameotchere/deploying-a-retail-sales-prediction-model-with-streamlit-cb67ba28215c)
 - [3](https://medium.com/@alihu.alhassan/deploying-a-machine-learning-model-using-streamlit-51d86aff0df2)
@@ -9,7 +13,7 @@
 - []()
 - []()
 
-## Projects
+### Projects
 - [1](https://github.com/KOdoi-OJ/Indian_Startup_Funding_Analysis_18-21)
 - [2](https://github.com/KOdoi-OJ/Retail_Sales_Prediction_App_with_Streamlit)
 - [3](https://huggingface.co/spaces/FKBaffour/Gradio_App_for_Sentiment_Analysis)
